@@ -1,0 +1,5 @@
+wheel
+Flask-Appbuilder
+Flask-Migrate
+mysqlclient
+google-cloud-texttospeech
